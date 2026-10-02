@@ -27,7 +27,7 @@ Instructions:
 4. Right-click folder → Share → Copy link
 5. Paste link below:
 
-**Google Drive Link**: `[PASTE YOUR LINK HERE]`
+**Google Drive Link**: https://drive.google.com/drive/folders/1ec09ZiC1PzC0aOEXg-dxSNEeHMlFnSKj
 
 ## 📦 Video Naming Convention
 
