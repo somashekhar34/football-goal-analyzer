@@ -1,0 +1,74 @@
+# Videos (too large for git, use cloud storage)
+videos/*.mp4
+videos/*.mov
+videos/*.avi
+videos/*.mkv
+videos/*.webm
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+*.config
+!config.example
+
+# Credentials
+*credentials*
+*secret*
+*password*
+!*password.example
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Build artifacts
+*.o
+*.a
+*.exe
+*.out
+
+# OS
+Thumbs.db
+.DS_Store
+
+# VAST specific
+/config/*.config
+!config.example
